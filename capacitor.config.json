@@ -1,0 +1,18 @@
+{
+  "appId": "com.aspect.player",
+  "appName": "Aspect Player",
+  "webDir": "www",
+  "backgroundColor": "#141414",
+  "server": {
+    "androidScheme": "http",
+    "cleartext": true
+  },
+  "android": {
+    "allowMixedContent": true
+  },
+  "plugins": {
+    "CapacitorHttp": {
+      "enabled": true
+    }
+  }
+}

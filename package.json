@@ -1,0 +1,13 @@
+{
+  "name": "aspect-player",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Aspect Player - app de streaming para Xtream Codes (TV, desktop e celular)",
+  "dependencies": {
+    "@capacitor/android": "^6.1.2",
+    "@capacitor/app": "^6.0.1",
+    "@capacitor/cli": "^6.1.2",
+    "@capacitor/core": "^6.1.2",
+    "hls.js": "^1.5.15"
+  }
+}
